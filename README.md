@@ -1,1 +1,1 @@
-# code_kdd2023
+This is the implementation for our submission at KDD (2023).
